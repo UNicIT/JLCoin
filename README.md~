@@ -1,3 +1,3 @@
-FooCoin (FOO)
+jlcoin (FOO)
 
 Blah, blah, blah.
